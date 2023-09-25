@@ -1,7 +1,7 @@
 ## Bonjour, je suis Nicolas Van Hoove 👋 
 ### Développeur web PHP / Symfony / JS situé dans le département de la Gironde ☀
 
-Ma formation de développeur web effectué chez O'clock s'achève 🌱 C'est grâce à elle que mon intérêt pour le domaine du développemnt web s'est transformé en passion ! 
+Ma formation de développeur web effectué chez O'clock s'achève 🌱 C'est grâce à elle que mon intérêt pour le domaine du développement web s'est transformé en passion ! 
 
 🏋 Après 5 mois intensifs passés à décortiquer et comprendre HTML, CSS, PHP, MySQL, Symfony ou encore JavaScript. Je me suis rendu compte que j'avais très envie de continuer d'apprendre tout en pratiquant encore davantage. Ma curiosité n'est pas encore rassasiée. 
 
