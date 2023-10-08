@@ -3,11 +3,11 @@
 
 Ma formation de développeur web effectué chez O'clock s'achève 🌱 C'est grâce à elle que mon intérêt pour le domaine du développement web s'est transformé en passion ! 
 
-🏋 Après 5 mois intensifs passés à décortiquer et comprendre HTML, CSS, PHP, MySQL, Symfony ou encore JavaScript. Je me suis rendu compte que j'avais très envie de continuer d'apprendre tout en pratiquant encore davantage. Ma curiosité n'est pas encore rassasiée. 
+🏋 Après 5 mois intensifs passés à décortiquer et comprendre HTML, CSS, PHP, MySQL, Symfony ou encore JavaScript, je me suis rendu compte que j'avais très envie de continuer d'apprendre tout en pratiquant encore davantage. Ma curiosité n'est pas encore rassasiée. 
 
 💻 C'est pour cela que j'ai décidé de poursuivre avec la formation Concepteur Developpeur d'Applications (CDA) en alternance. Mon but est de perfectionner les compétences que j'ai acquises au cours de cette première formation ainsi que d'en acquérir de nouvelles. 
 
-Vous l'aurez donc compris, je suis à la recherche d'une entreprise qui poourait m'accueillir en alternance à partir du mois de Janvier 2024 ! 
+Vous l'aurez donc compris, je suis à la recherche d'une entreprise qui pourrait m'accueillir en alternance à partir du mois de Janvier 2024 ! 
 
 Si vous souhaitez obtenir mon CV ou davantage d'informations n'hésitez pas à me me contacter soit par :
 - ✉ Mail nicolasvh.dev@gmail.com
