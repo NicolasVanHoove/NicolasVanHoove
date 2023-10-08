@@ -10,7 +10,7 @@ Ma formation de développeur web effectué chez O'clock s'achève 🌱 C'est gr�
 Vous l'aurez donc compris, je suis à la recherche d'une entreprise qui poourait m'acueillir en alternance à partir du mois de Janvier 2024 ! 
 
 Si vous souhaitez obtenir mon CV ou davantage d'informations n'hésitez pas à me me contacter soit par :
-- ✉ Mail nicolas.vanhoove@gmail.com
+- ✉ Mail nicolasvh.dev@gmail.com
 - ✉ Messagerie de Linkedin (www.linkedin.com/in/nicolas-van-hoove)
 
 ### Quelques statistiques sur les langages que j'apprécie 👇
