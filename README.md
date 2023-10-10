@@ -14,7 +14,7 @@ Si vous souhaitez obtenir mon CV ou davantage d'informations n'hésitez pas à m
 - ✉ Messagerie de Linkedin (www.linkedin.com/in/nicolas-van-hoove)
 
 ### Quelques statistiques sur les langages que j'apprécie 👇
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasVanHoove&theme=onedark&hide_langs_below=0)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasVanHoove&theme=onedark)
 
 <!--
 **NicolasVanHoove/NicolasVanHoove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
