@@ -7,7 +7,7 @@ Ma formation de développeur web effectué chez O'clock s'achève 🌱 C'est gr�
 
 💻 C'est pour cela que j'ai décidé de poursuivre avec la formation Concepteur Developpeur d'Applications (CDA) en alternance. Mon but est de perfectionner les compétences que j'ai acquises au cours de cette première formation ainsi que d'en acquérir de nouvelles. 
 
-Vous l'aurez donc compris, je suis à la recherche d'une entreprise qui pourrait m'accueillir en alternance à partir du mois de Janvier 2024 ! 
+Vous l'aurez donc compris, je suis à la recherche d'une entreprise qui pourrait m'accueillir en alternance à partir du mois de Septembre 2024 ! 
 
 Si vous souhaitez obtenir mon CV ou davantage d'informations n'hésitez pas à me contacter :
 - ✉ Mail nicolasvh.dev@gmail.com
